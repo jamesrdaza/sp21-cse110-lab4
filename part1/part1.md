@@ -1,6 +1,6 @@
 ## 1a.
 1. "values added: 20" 
-2. "values added: 20" 
+2. "final result: 20" 
 3. "values added: 20"
 4. Error because we defined "result" with "let" it is in the scope within the brackets.
 5. Error because we defined "result" with "const" we cannot change the value.
